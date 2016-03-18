@@ -7,7 +7,8 @@
 - 博客园博客：[www.cnblogs.com/lianmin](http://www.cnblogs.com/lianmin)
 - 个人博客：[www.wqnmlgbd.net](http://www.wqnmlgbd.net)
 ## 意向职位
-.net 工程师，web前端工程师
+- .net 工程师，web前端工程师
+
 ## 专业技能
 ### .Net:
 - 精通C#，熟悉GDI+，正则，linq(to Object/EF/xml)，ADO.NET,
@@ -26,7 +27,9 @@ ASP.NET MVC(preview3,3,4,5)。
 
 ### 数据库： Sql Server
 - 有编写存储过程的经验。
+
 ## 工作经历
+
 ### 2014.12-2016.1 
 #### 武汉软通动力技术服务有限公司
 - Dashboard 项目
