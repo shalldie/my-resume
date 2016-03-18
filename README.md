@@ -7,10 +7,11 @@
 - 本科， 2014.6 毕业于武汉东湖学院
 - 博客园博客：[www.cnblogs.com/lianmin](http://www.cnblogs.com/lianmin)
 - 个人博客：[www.wqnmlgbd.net](http://www.wqnmlgbd.net)
+
 ***
 ## 意向职位
 ***
-.net 工程师，web前端工程师
+- .net 工程师，web前端工程师
 ***
 ## 专业技能
 ***
