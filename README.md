@@ -23,8 +23,8 @@ ASP.NET MVC(preview3,3,4,5)。
 - 熟悉抓包，http请求流程分析，模拟请求操作。
 - 有ASP.NET MVC 和 Winform 编程经验。接触过WPF。
 ### Web 前端:
-- 熟悉 Html，JavaScript，Css。
-- 对Html5 和 css3 有一定接触。
+- 熟悉 HTML，JavaScript，CSS。
+- 对HTML5 和 CSS3 有一定接触。
 - 熟悉常用和出名的一些库或者框架，如：jQuery，Bootstrap，easyUI，jQueryUI。
 - 掌握ajax，promise等技术。
 - 用过requirejs，less，nodejs，gulp，对前端自动化构建有一定经验。
