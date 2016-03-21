@@ -7,22 +7,20 @@
 - 博客园博客：[www.cnblogs.com/lianmin](http://www.cnblogs.com/lianmin)
 - 个人博客：[www.wqnmlgbd.net](http://www.wqnmlgbd.net)
 
-## 联系方式
-- 邮箱：394229785@qq.com
-- 手机：15671608320
-
 ## 意向职位
 - web前端工程师, .net 工程师
 
 ## 专业技能
 
-
 ### Web 前端:
 - 熟悉 HTML，JavaScript，CSS。
 - 对HTML5 和 CSS3 有一定接触。
 - 熟悉常用和出名的一些库或者框架，如：jQuery，Bootstrap，easyUI，jQueryUI。
-- 掌握ajax，promise等技术。
-- 用过requirejs，less，nodejs，gulp，对前端自动化构建有一定经验。
+- 学习过 Vue.js 。
+- 掌握ajax，promise等技术，对js异步编程有些了解。
+- 熟悉 ES6 的部分新特性。- 
+- 熟悉 requirejs，less。
+- 用过 nodejs，gulp，对前端自动化构建有一定经验。
 - 经常写jQuery插件。
 
 ### .Net:
@@ -65,8 +63,8 @@ ASP.NET MVC(preview3,3,4,5)。
 - 电商网站,地址：[http://www.web0315.com]( http://www.web0315.com)
 - 工作内容：
      * 负责街拍购，便民购，个人展厅部分模块，根据体验部提交内容完成任务。
+     * 编写部分前端效果，前后端数据交互，第三方jq插件修改，。
      * 完成VIP客户旗舰店模块。
-     * 部分前端特效。
      * 接入QQ互联。
 - 微信公众平台
 - 工作内容：
@@ -84,6 +82,10 @@ ASP.NET MVC(preview3,3,4,5)。
  * 百度贴吧发帖机
  * 腾讯 Webqq 消息推送
  
+## 联系方式
+- 邮箱：394229785@qq.com
+- 手机：15671608320
+
 ## 爱好与自评
  * 爱好动漫，篮球，dota
  * 宅，话少，有一定学习能力。乐于学习新技术和新事物，所知广而不深，杂而不精。
