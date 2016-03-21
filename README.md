@@ -12,16 +12,11 @@
 - 手机：15671608320
 
 ## 意向职位
-- .net 工程师，web前端工程师
+- web前端工程师, .net 工程师
 
 ## 专业技能
-### .Net:
-- 精通C#，熟悉GDI+，正则，linq(to Object/EF/xml)，ADO.NET,
-ASP.NET MVC(preview3,3,4,5)。
-- 了解线程和异步。
-- 对4.0 和4.5 新特性有了解。
-- 熟悉抓包，http请求流程分析，模拟请求操作。
-- 有ASP.NET MVC 和 Winform 编程经验。接触过WPF。
+
+
 ### Web 前端:
 - 熟悉 HTML，JavaScript，CSS。
 - 对HTML5 和 CSS3 有一定接触。
@@ -29,6 +24,14 @@ ASP.NET MVC(preview3,3,4,5)。
 - 掌握ajax，promise等技术。
 - 用过requirejs，less，nodejs，gulp，对前端自动化构建有一定经验。
 - 经常写jQuery插件。
+
+### .Net:
+- 精通C#，熟悉GDI+，正则，linq(to Object/EF/xml)，ADO.NET,
+ASP.NET MVC(preview3,3,4,5)。
+- 了解线程和异步。
+- 对4.0 和4.5 新特性有了解。
+- 熟悉抓包，http请求流程分析，模拟请求操作。
+- 有ASP.NET MVC 和 Winform 编程经验。接触过WPF。
 
 ### 数据库： Sql Server
 - 有编写存储过程的经验。
