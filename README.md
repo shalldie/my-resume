@@ -18,7 +18,7 @@
 - 熟悉常用和出名的一些库或者框架，如：jQuery，Bootstrap，easyUI，jQueryUI。
 - 学习过 Vue.js 。
 - 掌握ajax，promise等技术，对js异步编程有些了解。
-- 熟悉 ES6 的部分新特性。- 
+- 熟悉 ES6 的部分新特性。 
 - 熟悉 requirejs，less。
 - 用过 nodejs，gulp，对前端自动化构建有一定经验。
 - 经常写jQuery插件。
