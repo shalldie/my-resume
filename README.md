@@ -93,4 +93,4 @@ ASP.NET MVC(preview3,3,4,5)。
 ## 致谢
 * 感谢您花时间阅读我的简历，期待与您共事。
 
-此简历还有一份线上版本：https://github.com/shalldie/my-resume](https://github.com/shalldie/my-resume)
+此简历还有一份线上版本：[https://github.com/shalldie/my-resume](https://github.com/shalldie/my-resume)
