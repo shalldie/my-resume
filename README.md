@@ -3,7 +3,7 @@
 ## 概况：
 - 男
 - 25岁
-- 4年工作经验
+- 2012年参加工作，4年工作经验
 - 本科， 2014.6 毕业于武汉东湖学院
 - 博客园博客：[www.cnblogs.com/lianmin](http://www.cnblogs.com/lianmin)
 - GitHub：[https://github.com/shalldie](https://github.com/shalldie)
@@ -20,13 +20,13 @@
 - 熟悉一些UI框架，如：**Bootstrap,easyUI,jQueryUI**。
 - 前端框架：Vuejs 偶尔会用，仅作为模版引擎和数据双向绑定工具来用。 ng不了解。 学习过 react ，但工作中的项目没有使用到。
 - 经常用 **ES6** ，了解过 **ES7**
-- 模块化：了解 amd，cmd，commonjs，module
+- 模块化：了解 amd，cmd，commonjs，module。 目前用的是 module模式，commonjs，es6的module模块。
 - 工程化：用过 **requirejs+r.js ,browserify，** 现在主要是 **gulp + webpack**
-- css：经常用less，熟悉css3，[这是一个作品demo](https://shalldie.github.io/demos/bud-css3/index.html)
+- css：经常用less，熟悉css3，[这是一个作品demo，请用chrome](https://shalldie.github.io/demos/bud-css3/index.html)
 - 熟悉 **TypeScript** 语言,这是一个未完成的打飞机游戏(*webpack+typescript+canvas*，做了pc和移动端适配) ，[游戏源码](https://github.com/shalldie/hit-plane) ，[点击试玩](https://shalldie.github.io/demos/hit-plane/index.html)
 - 熟悉 **nodejs** : 一般的小型程序没有问题，如果复杂点需要边查边写。写过 **vscode 编辑器** 的插件：**ext install background** ，[background 源码](https://github.com/shalldie/vscode-background)。 以前也尝试写过gulp的插件。
-- 有过 **express** 和 **electron** 的学习使用经验，对于 express 还算熟悉。
-- 熟悉正则表达式，
+- 有过 **express** 和 **electron** 的学习使用经验，对于 express 还算熟悉，个人博客正在用express重写，不过还未上线。
+- 其它：熟悉正则表达式，ajax等前端常用知识技能，熟悉请求流程分析，做过 百度发/回贴机， 基于webqq协议的机器人， 微信公众平台客户端化。
 
 ### .Net:
 - 精通 C#，熟悉 GDI+，正则，linq(to Object/EF/xml)，ADO.NET,
@@ -36,14 +36,40 @@ ASP.NET MVC(preview3,3,4,5)。
 - 熟悉抓包，http 请求流程分析，模拟请求操作。
 - 有ASP.NET MVC 和 Winform 编程经验。接触过 WPF。
 
+### 其它语言:
+- VB.NET ，早年接触过
+- Java ,明白基础语法，处于能看懂的水平。
+
 ### 数据库： Sql Server
 - 一般的增删查改，有编写存储过程的经验。
 
 ## 工作经历
+### 2016.3-至今
+#### 上海高欣计算机有限公司
+- UED 项目组
+- 职务：前端工程师
+- 工作简介：
+    * ---- 切页面：
+    * [小黑记事本官网](http://heinote.7654.com/)
+    * [人民万年历官网](http://www.rmrili.com/)
+    * [东方号](http://mp.eastday.com/)
+    * ...... 等等不计其数的网站或者活动页面，从ie6写到移动端h5页面，微信端小游戏，如 [双11剁手](http://gxjifen.dftoutiao.com/gx-ued-jser/xieshuang/code2/duoshou/app/index.html)
+    * ---- js脚本插件:
+    * 百度ssp插件，主要是活动，或者广告相关
+    * 日常工作中的jquery插件，或者插件修改
+    * 若干刷数据的js脚本，项目有些排行榜需要刷上去
+    * 网页端大量的人工操作，也会写脚本来代替。比如 微信后台，对于用户的分组。
+    * ---- nodejs 脚本
+    * 数据爬取，推送。用于生成 新闻早餐 公众号在pc端页面每天的新闻数据，并推送到服务器(pc端数据用jsonp加载，数据发布在微信的平台)。
+    * 一些第三方网站的数据爬取工作。
+    * ---- winform
+    * 用的C#，微信公众平台客户端化，用于快速按条件查询数据，并导出excel
+
 
 ### 2014.12-2016.1 
 #### 武汉软通动力技术服务有限公司
 - Dashboard 项目
+- 职位：全栈
 - 业务简介： 面向华为外包，华为内部看板项目。集成研发质量，进度，能力度量于一体的研发全流程全领域度量平台。包含持续集成能力评估，自动化成熟度评估，迭代健康度评估，版本E2E度量，测试能力基线评估，预警推送等。
 - 框架：MVC4 + EF code first + PGSQL (最初是SQL SERVER)
 - 本人工作：
@@ -66,11 +92,12 @@ ASP.NET MVC(preview3,3,4,5)。
 ### 2014.2-2014.11 
 #### 唐山中联耐材电子商务有限公司
 - 电商网站,地址：[http://www.web0315.com]( http://www.web0315.com)
+- 职位：全栈
 - 工作内容：
      * 负责街拍购，便民购，个人展厅部分模块，根据体验部提交内容完成任务。
      * 编写部分前端效果，前后端数据交互，第三方jq插件修改，jq插件编写。
      * 完成VIP客户旗舰店模块。
-     * 接入QQ互联。
+     * 第三方平台接入。
 - 微信公众平台
 - 工作内容：
      * 完成公众平台的接入，菜单定制，消息推送等，主要是后台内容。
@@ -83,9 +110,7 @@ ASP.NET MVC(preview3,3,4,5)。
      
 ### 2012.9-2013.9
 #### 山东日照钢铁有限公司
-- 作为实习生学习
- * 百度贴吧发帖机
- * 腾讯 Webqq 消息推送
+- 实习
  
 ## 联系方式
 - 邮箱：394229785@qq.com
