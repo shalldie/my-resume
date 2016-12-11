@@ -3,18 +3,19 @@
 ## 概况：
 - 男
 - 25岁
+- 4年工作经验
 - 本科， 2014.6 毕业于武汉东湖学院
 - 博客园博客：[www.cnblogs.com/lianmin](http://www.cnblogs.com/lianmin)
-- 个人博客：[www.wqnmlgbd.net](http://www.wqnmlgbd.net)
+- GitHub：[https://github.com/shalldie](https://github.com/shalldie)
 
 ## 意向职位
-- web前端工程师, .net 工程师
+- web前端工程师
 
 ## 专业技能
 
 ### Web 前端:
-- 熟悉 HTML，JavaScript，CSS。
-- 对 HTML5 和 CSS3 有一定接触。
+- 熟悉 HTML，JavaScript，CSS，HTML5，CSS3
+- 学习过部分 jQuery 源码，对于一些常用方法的底层实现有一定了解。曾将其异步部分模块和 [async](https://github.com/caolan/async) 中常用方法自己实现并优化，用于 异步流程控制 [mini-task](https://github.com/shalldie/mini-task)  *npm install mini-task*
 - 熟悉常用和出名的一些库或者框架，如：jQuery,Bootstrap,easyUI,jQueryUI。
 - 学习过 Vue.js 。
 - 掌握 ajax，promise 等技术，对 js 异步编程有些了解。
