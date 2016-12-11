@@ -18,14 +18,15 @@
 - 会用ps，会切图 :D
 - 学习过部分 jQuery 源码，经常写插件，对于一些常用方法的底层实现有一定了解。曾将其异步部分模块和 [async](https://github.com/caolan/async) 中常用方法自己实现并优化，用于 异步流程控制 [mini-task](https://github.com/shalldie/mini-task)  **npm install mini-task**
 - 熟悉一些UI框架，如：**Bootstrap,easyUI,jQueryUI**。
-- 前端框架：Vuejs 偶尔会用，仅作为模版引擎和数据双向绑定工具来用。 ng不了解。 学习过 react ，但实际项目中没有使用到。
+- 前端框架：Vuejs 偶尔会用，仅作为模版引擎和数据双向绑定工具来用。 ng不了解。 学习过 react ，但工作中的项目没有使用到。
 - 经常用 **ES6** ，了解过 **ES7**
 - 模块化：了解 amd，cmd，commonjs，module
 - 工程化：用过 **requirejs+r.js ,browserify，** 现在主要是 **gulp + webpack**
-- css预编译：less。
+- css：经常用less，熟悉css3，[这是一个作品demo](https://shalldie.github.io/demos/bud-css3/index.html)
 - 熟悉 **TypeScript** 语言,这是一个未完成的打飞机游戏(*webpack+typescript+canvas*，做了pc和移动端适配) ，[游戏源码](https://github.com/shalldie/hit-plane) ，[点击试玩](https://shalldie.github.io/demos/hit-plane/index.html)
-- 熟悉 **nodejs** : 一般的小型程序没有问题，如果复杂点需要边查边写。写过 *vscode 编辑器* 的插件：*ext install background* ，[background](https://github.com/shalldie/vscode-background)。 以前也尝试写过gulp的插件。
-- 有过 **express** 和 **electron** 的开发经验。
+- 熟悉 **nodejs** : 一般的小型程序没有问题，如果复杂点需要边查边写。写过 **vscode 编辑器** 的插件：**ext install background** ，[background 源码](https://github.com/shalldie/vscode-background)。 以前也尝试写过gulp的插件。
+- 有过 **express** 和 **electron** 的学习使用经验，对于 express 还算熟悉。
+- 熟悉正则表达式，
 
 ### .Net:
 - 精通 C#，熟悉 GDI+，正则，linq(to Object/EF/xml)，ADO.NET,
