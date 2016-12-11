@@ -121,6 +121,6 @@ ASP.NET MVC(preview3,3,4,5)。
  * 宅，话少，有一定学习能力。乐于学习新技术和新事物，所知广而不深，杂而不精。
 
 ## 致谢
-* 感谢您花时间阅读我的简历，期待与您共事。
+* 感谢您花时间阅读我的简历，期待与您共事。 有些东西大家聊一聊心底就有谱了 :D 。
 
 此简历还有一份线上版本：[https://github.com/shalldie/my-resume](https://github.com/shalldie/my-resume)
