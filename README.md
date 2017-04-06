@@ -24,7 +24,7 @@
 - 熟悉一些UI框架，如：**Bootstrap,easyUI,jQueryUI**。
 - 前端框架：Vuejs 偶尔会用，仅作为模版引擎和数据双向绑定工具来用。 ng不了解。 学习过 react ，但工作中的项目没有使用到。
 - 经常用 **ES6** ，了解过 **ES7**
-- 模块化：了解 amd，cmd，commonjs，module。 目前用的是 module模式，commonjs，es6的module模块。
+- 模块化：了解 amd，cmd，commonjs，module。 目前用的是 module模式，commonjs，es6的module模块。 曾经自己实现过 [requirejs](https://github.com/shalldie/requirejs)
 - 工程化：用过 **requirejs+r.js ,browserify，** 现在主要是 **gulp + webpack**
 - css：经常用less，熟悉css3，[这是一个作品demo，请用chrome](https://shalldie.github.io/demos/bud-css3/index.html)
 - 熟悉 **TypeScript** 语言,这是一个未完成的打飞机游戏(*webpack+typescript+canvas*，做了pc和移动端适配) ，[游戏源码](https://github.com/shalldie/hit-plane) ，[点击试玩](https://shalldie.github.io/demos/hit-plane/index.html)
