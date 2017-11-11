@@ -1,11 +1,11 @@
 # 谢爽 - 个人简历
 
-## **努力工作中，暂时不考虑其他机会**
+## **努力工作中，，，**
 
 ## 概况：
 - 男
-- 25岁
-- 2012年参加工作，4年工作经验
+- 26岁
+- 2012年开始写代码，4年工作经验
 - 本科， 2014.6 毕业于武汉东湖学院
 - 博客园博客：[www.cnblogs.com/lianmin](http://www.cnblogs.com/lianmin)
 - GitHub：[https://github.com/shalldie](https://github.com/shalldie)
@@ -18,22 +18,33 @@
 ## 专业技能
 
 ### Web 前端:
-- 熟悉 **HTML，JavaScript，CSS，HTML5，CSS3**
-- 会用ps，会切图 :D
-- 学习过部分 jQuery 源码，经常写插件，对于一些常用方法的底层实现有一定了解。曾将其异步部分模块和 [async](https://github.com/caolan/async) 中常用方法自己实现并优化，用于 异步流程控制 [mini-task](https://github.com/shalldie/mini-task)  **npm install mini-task**
-- 熟悉一些UI框架，如：**Bootstrap,easyUI,jQueryUI**。
-- 前端框架：熟悉Vuejs 。 ng不了解。 学习过 react ，但工作中的项目没有使用到。
-- 经常用 **ES6** ，了解过 **ES7**
-- 模块化：了解 amd，cmd，commonjs，module。 目前用的是 module模式，commonjs，es6的module模块。 曾经自己实现过 [requirejs](https://github.com/shalldie/requirejs)
-- 工程化：用过 **requirejs+r.js ,browserify，** 现在主要是 **gulp + webpack**
-- css：熟悉 less,sass，熟悉css3，[这是一个作品demo，请用chrome](https://shalldie.github.io/demos/bud-css3/index.html)
-- 熟悉 **TypeScript** 语言,这是一个未完成的打飞机游戏(*webpack+typescript+canvas*，做了pc和移动端适配) ，[游戏源码](https://github.com/shalldie/hit-plane) ，[点击试玩](https://shalldie.github.io/demos/hit-plane/index.html)
-- 熟悉 **nodejs** 。写过 **vscode 编辑器** 的插件：**ext install background** ，[background 源码](https://github.com/shalldie/vscode-background)。 以前也尝试写过gulp的插件。
-- 做过 **express** 开发。
-- 其它：熟悉正则表达式，ajax等前端常用知识技能，熟悉请求流程分析，做过 百度发/回贴机， 基于webqq协议的机器人， 微信公众平台客户端化。
+
+#### base
+* 熟悉 **HTML，JavaScript，CSS，HTML5，CSS3**
+* 会用ps，会切图 :D
+
+#### 库/框架
+* 学习过部分 jQuery 源码，经常写插件，对于一些常用方法的底层实现有一定了解。曾将其异步部分模块和 [async](https://github.com/caolan/async) 中常用方法自己实现并优化，用于 异步流程控制 [mini-task](https://github.com/shalldie/mini-task)  **npm install mini-task**
+* 熟悉一些UI框架，如：**Bootstrap,easyUI,jQueryUI**。
+* 前端框架：熟悉Vuejs 。 ng不了解。 学习过 react ，但工作中的项目没有使用到。
+
+#### 模块/工程 化
+* 熟悉 **ES6** ，了解 **ES7**
+* 模块化：了解 module模式， amd，cmd，commonjs，es6 module。自己实现过 [requirejs](https://github.com/shalldie/requirejs)
+* 工程化：主要是 **webpack** 及相关，对于其他也有用过或了解。
+
+#### css
+* 有过IE6的兼容经验  0_o
+* 熟悉 less,sass，熟悉css3，[这是一个作品demo，请用chrome](https://shalldie.github.io/demos/bud-css3/index.html)
+
+#### 其它
+* 熟悉 **TypeScript** 语言,这是一个未完成的打飞机游戏(**webpack+typescript+canvas**，做了pc和移动端适配) ，[游戏源码](https://github.com/shalldie/hit-plane) ，[点击试玩](https://shalldie.github.io/demos/hit-plane/index.html)
+* 熟悉 **nodejs** 。写过 **vscode 编辑器** 的插件：**ext install background** ，[background 源码](https://github.com/shalldie/vscode-background)。 以前也尝试写过gulp的插件。
+* 做过 **express** 开发。
+* 其它：熟悉正则表达式，ajax等前端常用知识技能，熟悉请求流程分析，做过 百度发/回贴机， 基于webqq协议的机器人， 微信公众平台客户端化。
 
 ### .Net:
-- 精通 C#，熟悉 GDI+，正则，linq(to Object/EF/xml)，ADO.NET,
+- 熟悉 C#，GDI+，正则，linq(to Object/EF/xml)，ADO.NET,
 ASP.NET MVC(preview3,3,4,5)。
 - 了解线程和异步。
 - 对 4.0 和 4.5 新特性有了解。
@@ -59,17 +70,14 @@ ASP.NET MVC(preview3,3,4,5)。
 - 职务：前端工程师
 - 工作简介：
     * ---- 切页面：
-    * [小黑记事本官网](http://heinote.7654.com/)
-    * [人民万年历官网](http://www.rmrili.com/)
-    * [东方号](http://mp.eastday.com/)
-    * ...... 等等不计其数的网站或者活动页面，从ie6写到移动端h5页面，微信端小游戏，如 [双11剁手](http://gxjifen.dftoutiao.com/gx-ued-jser/xieshuang/code2/duoshou/app/index.html)
+    * PC + 移动
     * ---- js脚本插件:
-    * 百度ssp插件，主要是活动，或者广告相关
-    * 日常工作中的jquery插件，或者插件修改
-    * 若干刷数据的js脚本，项目有些排行榜需要刷上去
-    * 网页端大量的人工操作，也会写脚本来代替。比如 微信后台，对于用户的分组。
+    * 广告接入
+    * 功能性插件
+    * 刷数据
+    * 网页端大量的人工操作，也会写脚本来代替。比如 微信后台，对于用户的分组。    
     * ---- nodejs 脚本
-    * 数据爬取，推送。用于生成 新闻早餐 公众号在pc端页面每天的新闻数据，并推送到服务器(pc端数据用jsonp加载，数据发布在微信的平台)。
+    * 数据爬取，推送，类似中间件。
     * 一些第三方网站的数据爬取工作。
     * ---- winform
     * 用的C#，微信公众平台客户端化，用于快速按条件查询数据，并导出excel
@@ -93,7 +101,7 @@ ASP.NET MVC(preview3,3,4,5)。
       * 编写一些jq插件用于团队开发(统一弹框，前端分页，页面停留时长检测等)。      
       * 日常的维护和新功能的开发。
 - Dashboard 移动版
-     * 这个是针对一些高级别的领导所做的定制版，主要用于 Dashboard 2.0 中常用的功能集成在移动端便于查看。
+     * 这个是针对一些领导所做的定制版，主要用于 Dashboard 2.0 中常用的功能集成在移动端便于查看。
 
 
 - 对于前后端都做过优化。做过技能分享。负责每周代码检视工作。
